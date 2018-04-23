@@ -1,0 +1,680 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Active Line: 526
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: fonte legenda,Tahoma,22,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,Bree Serif,22,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Bree Serif,22,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,Bree Serif,22,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: anuncio dos locais,Bree Serif,22,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: musica no video,Bree Serif,22,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.97,0:00:19.93,fonte legenda,,0,0,0,,Dizem que no nosso mundo há sete\Nesferas, chamadas de "Esferas do Dragão",
+Dialogue: 0,0:00:19.97,0:00:25.14,fonte legenda,,0,0,0,,que, quando reunidas,\Nconcedem qualquer desejo.
+Dialogue: 0,0:00:25.98,0:00:27.28,fonte legenda,,0,0,0,,Está pronto!
+Dialogue: 0,0:00:27.32,0:00:28.61,fonte legenda,,0,0,0,,Bom trabalho, Pilaf-sama!
+Dialogue: 0,0:00:28.65,0:00:32.78,fonte legenda,,0,0,0,,Com isso, a localização das\NEsferas do Dragão será algo óbvia!
+Dialogue: 0,0:00:36.32,0:00:38.69,fonte legenda,,0,0,0,,Nós terminamos o Radar do Dragão!
+Dialogue: 0,0:00:39.66,0:00:44.29,fonte legenda,,0,0,0,,Sério? Então aqueles pontos\Nindicam a localização das esferas?
+Dialogue: 0,0:00:44.33,0:00:46.63,fonte legenda,,0,0,0,,É como se o mundo estivesse nas minhas mãos!
+Dialogue: 0,0:00:46.67,0:00:48.29,fonte legenda,,0,0,0,,Entretanto, não será difícil reunir todas,
+Dialogue: 0,0:00:48.34,0:00:50.30,fonte legenda,,0,0,0,,já que estão espalhadas por todo o mundo?
+Dialogue: 0,0:00:50.34,0:00:54.43,fonte legenda,,0,0,0,,Se usarmos o poder do\NImpério de Mifan, isso não será problema.
+Dialogue: 0,0:00:56.01,0:00:58.64,fonte legenda,,0,0,0,,Somos gratos por poder ajudá-los.
+Dialogue: 0,0:00:58.68,0:01:00.65,fonte legenda,,0,0,0,,Podem confiar...
+Dialogue: 0,0:01:00.68,0:01:02.98,fonte legenda,,0,0,0,,S-Sim, não vamos contar nada.
+Dialogue: 0,0:01:03.02,0:01:07.65,fonte legenda,,0,0,0,,Ah, eu sei disso.\NTao Pai Pai, dê-lhes sua recompensa.
+Dialogue: 0,0:01:07.69,0:01:12.56,fonte legenda,,0,0,0,,Vocês têm sorte\Nde poder receber a recompensa de mim.
+Dialogue: 0,0:01:29.67,0:01:36.88,legenda para anuncio de episódio e creditos,,0,0,0,,"A AVENTURA MÍSTICA"\N"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
+Dialogue: 0,0:01:44.56,0:01:48.23,legenda para abertura e encerramento,,0,0,0,,Vamos pegá-las! DRAGON BALL!
+Dialogue: 0,0:01:48.23,0:01:51.90,legenda para abertura e encerramento,,0,0,0,,Elas são um dos\Nmistérios mais eletrizantes do mundo
+Dialogue: 0,0:01:51.90,0:01:55.23,legenda para abertura e encerramento,,0,0,0,,Vamos procurá-las! DRAGON BALL!
+Dialogue: 0,0:01:55.23,0:01:58.57,legenda para abertura e encerramento,,0,0,0,,Elas são um dos\Nmilagres mais encantadores do mundo
+Dialogue: 0,0:01:58.57,0:02:01.91,legenda para abertura e encerramento,,0,0,0,,Essa vida é uma grande ilha do tesouro
+Dialogue: 0,0:02:01.91,0:02:09.92,legenda para abertura e encerramento,,0,0,0,,Essa é a verdade,\Nmais do que nunca... Aventura!
+Dialogue: 0,0:02:09.92,0:02:12.92,legenda para abertura e encerramento,,0,0,0,,O amor de um peito batendo é perfeito,
+Dialogue: 0,0:02:12.92,0:02:16.59,legenda para abertura e encerramento,,0,0,0,,sonhos multicoloridos nascem como arco-íris
+Dialogue: 0,0:02:16.59,0:02:23.60,legenda para abertura e encerramento,,0,0,0,,Eles estão crescendo em algum lugar do mundo
+Dialogue: 0,0:02:23.60,0:02:27.27,legenda para abertura e encerramento,,0,0,0,,Vamos lá fora para encontrá-las, garoto
+Dialogue: 0,0:02:27.27,0:02:30.27,legenda para abertura e encerramento,,0,0,0,,Acabando com monstros e mutantes o tempo todo
+Dialogue: 0,0:02:30.27,0:02:37.88,legenda para abertura e encerramento,,0,0,0,,E ainda voaremos durante\No dia em nossa máquina de nuvem!
+Dialogue: 0,0:02:37.88,0:02:41.55,legenda para abertura e encerramento,,0,0,0,,Vamos tentar,\Ntentar, tentar, é tão misterioso!
+Dialogue: 0,0:02:41.55,0:02:44.88,legenda para abertura e encerramento,,0,0,0,,Viajando pelo céu\Nenquanto sobrevoamos montanhas!
+Dialogue: 0,0:02:44.88,0:02:48.55,legenda para abertura e encerramento,,0,0,0,,Vamos voar, voar, voar, grande aventura!
+Dialogue: 0,0:02:48.55,0:02:55.56,legenda para abertura e encerramento,,0,0,0,,Nossa excêntrica\Ne pequena jornada vai começar
+Dialogue: 0,0:02:55.56,0:02:59.23,legenda para abertura e encerramento,,0,0,0,,Vamos segurá-las! DRAGON BALL!
+Dialogue: 0,0:02:59.23,0:03:02.90,legenda para abertura e encerramento,,0,0,0,,Elas são uma das\Napostas mais formidáveis no mundo
+Dialogue: 0,0:03:02.90,0:03:06.24,legenda para abertura e encerramento,,0,0,0,,Vamos persegui-las! DRAGON BALL!
+Dialogue: 0,0:03:06.24,0:03:09.57,legenda para abertura e encerramento,,0,0,0,,Um dos contos mais divertidos no mundo
+Dialogue: 0,0:03:09.57,0:03:12.91,legenda para abertura e encerramento,,0,0,0,,Essa vida é uma grande ilha do tesouro
+Dialogue: 0,0:03:12.91,0:03:19.41,legenda para abertura e encerramento,,0,0,0,,Essa é a verdade,\Nmais do que nunca... Aventura!
+Dialogue: 0,0:03:24.22,0:03:25.99,fonte legenda,,0,0,0,,Eles realmente a moveram!
+Dialogue: 0,0:03:28.23,0:03:29.85,fonte legenda,,0,0,0,,Viu? Mexemos a pedra!
+Dialogue: 0,0:03:29.90,0:03:32.86,fonte legenda,,0,0,0,,Ótimo, então agora\Nvocê vai nos ensinar como lutar, certo?
+Dialogue: 0,0:03:32.90,0:03:33.87,fonte legenda,,0,0,0,,B-Bem, é claro.
+Dialogue: 0,0:03:33.90,0:03:35.20,fonte legenda,,0,0,0,,É!
+Dialogue: 0,0:03:35.23,0:03:36.90,fonte legenda,,0,0,0,,Isso era pra ter sido uma brincadeira.
+Dialogue: 0,0:03:37.07,0:03:38.20,fonte legenda,,0,0,0,,E então?
+Dialogue: 0,0:03:38.24,0:03:40.21,fonte legenda,,0,0,0,,O que devemos fazer, velho?
+Dialogue: 0,0:03:40.24,0:03:44.54,fonte legenda,,0,0,0,,Você pergunta, mas realmente não\Nhá muito mais que eu possa ensinar aos dois.
+Dialogue: 0,0:03:44.58,0:03:46.20,fonte legenda,,0,0,0,,Ah, não!
+Dialogue: 0,0:03:46.25,0:03:48.54,fonte legenda,,0,0,0,,Os fundamentos do estilo\Nde artes marciais do Mestre Kame
+Dialogue: 0,0:03:48.58,0:03:53.68,fonte legenda,,0,0,0,,...foram todos incorporados no\Ntreinamento que vocês tem feito todo dia.
+Dialogue: 0,0:03:55.92,0:03:56.89,fonte legenda,,0,0,0,,Mas...
+Dialogue: 0,0:03:56.92,0:04:00.55,fonte legenda,,0,0,0,,para testar o nível de suas\Nhabilidades, estou pensando em levá-los...
+Dialogue: 0,0:04:00.59,0:04:06.23,fonte legenda,,0,0,0,,...para o Império Mifan, uma terra do leste,\Npara o Tenkaichi Budokai deles.
+Dialogue: 0,0:04:06.27,0:04:07.56,fonte legenda,,0,0,0,,Vocês gostariam de ir?
+Dialogue: 0,0:04:07.60,0:04:08.57,fonte legenda,,0,0,0,,Para Mifan!?
+Dialogue: 0,0:04:08.60,0:04:09.90,fonte legenda,,0,0,0,,O que é isso?
+Dialogue: 0,0:04:09.94,0:04:13.23,fonte legenda,,0,0,0,,Mifan é onde tipos\Ndiferentes de artes marciais nasceram,
+Dialogue: 0,0:04:13.27,0:04:16.57,fonte legenda,,0,0,0,,e tem gente muito\Nforte em todo lugar, não é mesmo?
+Dialogue: 0,0:04:16.61,0:04:18.58,fonte legenda,,0,0,0,,Eu pensei\Nque podiam ver o quão forte ficaram,
+Dialogue: 0,0:04:18.61,0:04:21.58,fonte legenda,,0,0,0,,e já se inspirariam a treinar ainda mais!
+Dialogue: 0,0:04:21.61,0:04:25.18,fonte legenda,,0,0,0,,Enfim, vocês já podem tirar os cascos.
+Dialogue: 0,0:04:25.22,0:04:26.84,fonte legenda,,0,0,0,,Sério? Podemos tirá-los?
+Dialogue: 0,0:04:26.89,0:04:30.15,fonte legenda,,0,0,0,,Graças a Deus.\NSeria embaraçoso ir dessa forma.
+Dialogue: 0,0:04:33.89,0:04:37.19,fonte legenda,,0,0,0,,O meu corpo está\Nmais leve! Não sinto peso algum.
+Dialogue: 0,0:04:37.23,0:04:39.93,fonte legenda,,0,0,0,,Tudo bem, tentem pular o mais alto possível.
+Dialogue: 0,0:04:41.73,0:04:43.20,fonte legenda,,0,0,0,,Um, dois,
+Dialogue: 0,0:04:43.24,0:04:46.53,fonte legenda,,0,0,0,,três!
+Dialogue: 0,0:04:46.57,0:04:50.20,fonte legenda,,0,0,0,,Pulamos sem ajuda, certo?
+Dialogue: 0,0:04:54.75,0:04:56.81,fonte legenda,,0,0,0,,Legal!!
+Dialogue: 0,0:04:58.58,0:04:59.64,fonte legenda,,0,0,0,,Uhu!
+Dialogue: 0,0:05:06.26,0:05:07.56,fonte legenda,,0,0,0,,O que está acontecendo?
+Dialogue: 0,0:05:07.59,0:05:13.23,fonte legenda,,0,0,0,,Dizem por aí que Ran Ran-sama,\Na jovem noiva de sua majestade, sumiu.
+Dialogue: 0,0:05:13.27,0:05:16.96,fonte legenda,,0,0,0,,Desde que o Mestre Tsuru se tornou\Nprimeiro-ministro, tudo vai mal!
+Dialogue: 0,0:05:22.94,0:05:24.07,fonte legenda,,0,0,0,,Quem vocês pensam que são!?
+Dialogue: 0,0:05:26.88,0:05:28.54,fonte legenda,,0,0,0,,O que estão fazendo!?
+Dialogue: 0,0:05:33.55,0:05:34.68,fonte legenda,,0,0,0,,Não posso me mexer!
+Dialogue: 0,0:05:39.23,0:05:41.52,fonte legenda,,0,0,0,,Não está aqui.
+Dialogue: 0,0:05:41.56,0:05:42.65,fonte legenda,,0,0,0,,Desculpe quanto a isso.
+Dialogue: 0,0:05:52.24,0:05:53.67,fonte legenda,,0,0,0,,Infelizmente,
+Dialogue: 0,0:05:55.57,0:05:59.20,fonte legenda,,0,0,0,,julgando pela amplitude da área revistada,
+Dialogue: 0,0:05:59.25,0:06:06.15,fonte legenda,,0,0,0,,concluímos que Ran Ran-sama foi escondida\Nem algum lugar fora do nosso alcance.
+Dialogue: 0,0:06:07.25,0:06:09.22,fonte legenda,,0,0,0,,Quem poderia ter feito isso?
+Dialogue: 0,0:06:10.26,0:06:14.89,fonte legenda,,0,0,0,,Tem um jeito de achá-la sem erro.
+Dialogue: 0,0:06:14.93,0:06:15.55,fonte legenda,,0,0,0,,Como!?
+Dialogue: 0,0:06:15.59,0:06:17.72,fonte legenda,,0,0,0,,Fazendo um pedido a Shen Long.
+Dialogue: 0,0:06:18.26,0:06:19.89,fonte legenda,,0,0,0,,Shen Long?
+Dialogue: 0,0:06:19.93,0:06:24.16,fonte legenda,,0,0,0,,Dizem que há sete esferas espalhadas\Npelo mundo, chamas Esferas do Dragão,
+Dialogue: 0,0:06:24.20,0:06:27.66,fonte legenda,,0,0,0,,que, quando juntas, fazem Shen Long,
+Dialogue: 0,0:06:27.71,0:06:34.51,fonte legenda,,0,0,0,,o Dragão dos Deuses, aparecer e\Nrealizar qualquer desejo, mas só um.
+Dialogue: 0,0:06:34.55,0:06:35.45,fonte legenda,,0,0,0,,Incrível!
+Dialogue: 0,0:06:36.22,0:06:38.62,fonte legenda,,0,0,0,,Mas como nós as juntamos?
+Dialogue: 0,0:06:52.23,0:06:55.20,fonte legenda,,0,0,0,,Isso é conhecido como Radar do Dragão.
+Dialogue: 0,0:06:55.23,0:07:00.07,fonte legenda,,0,0,0,,Ele pode rastrear os comprimentos\Nde ondas únicos emitidos pelas esferas.
+Dialogue: 0,0:07:00.91,0:07:06.21,fonte legenda,,0,0,0,,Esses pontos brilhantes\Nindicam onde as esferas se encontram.
+Dialogue: 0,0:07:06.25,0:07:10.41,fonte legenda,,0,0,0,,Será muito fácil de\Nencontrá-las se usarmos as nossas tropas.
+Dialogue: 0,0:07:13.25,0:07:14.84,fonte legenda,,0,0,0,,Um momento, Sua Majestade!
+Dialogue: 0,0:07:16.26,0:07:16.95,fonte legenda,,0,0,0,,Blue!
+Dialogue: 0,0:07:23.53,0:07:27.49,fonte legenda,,0,0,0,,Muito bem, Majestade,\Nmesmo se conseguirmos as 7 esferas,
+Dialogue: 0,0:07:27.53,0:07:30.83,fonte legenda,,0,0,0,,o ministro pode\Nnão usar elas a favor de Sua Majestade.
+Dialogue: 0,0:07:30.87,0:07:31.84,fonte legenda,,0,0,0,,O quê!?
+Dialogue: 0,0:07:31.87,0:07:33.67,fonte legenda,,0,0,0,,E mais, há um lugar do palácio
+Dialogue: 0,0:07:33.71,0:07:36.61,fonte legenda,,0,0,0,,no qual Ran Ran-sama não foi procurada...
+Dialogue: 0,0:07:37.88,0:07:40.18,fonte legenda,,0,0,0,,No seu quarto, meu querido ministro!
+Dialogue: 0,0:07:40.21,0:07:42.01,fonte legenda,,0,0,0,,Já chega!
+Dialogue: 0,0:07:42.88,0:07:46.68,fonte legenda,,0,0,0,,Há seres sem escrúpulos que se aproveitariam
+Dialogue: 0,0:07:46.72,0:07:48.88,fonte legenda,,0,0,0,,da juventude\Nde Sua Majestade para se dar bem.
+Dialogue: 0,0:07:49.22,0:07:51.45,fonte legenda,,0,0,0,,Por acaso eu seria um deles?
+Dialogue: 0,0:07:56.56,0:07:58.22,fonte legenda,,0,0,0,,Que bom que você sabe!
+Dialogue: 0,0:08:01.23,0:08:03.17,fonte legenda,,0,0,0,,Segure para mim, desordeiro!
+Dialogue: 0,0:08:16.92,0:08:19.89,fonte legenda,,0,0,0,,Devia tomar mais cuidado com o que fala.
+Dialogue: 0,0:08:19.92,0:08:25.65,fonte legenda,,0,0,0,,Majestade, faremos com que a\NRan Ran-sama volte o mais rápido possível.
+Dialogue: 0,0:08:29.26,0:08:32.23,fonte legenda,,0,0,0,,A esfera está bem aqui em baixo!
+Dialogue: 0,0:08:32.26,0:08:33.46,fonte legenda,,0,0,0,,Embaixo do mar, hein?
+Dialogue: 0,0:08:35.27,0:08:37.24,fonte legenda,,0,0,0,,Então, acho que não é o Goku.
+Dialogue: 0,0:08:37.27,0:08:40.90,fonte legenda,,0,0,0,,Eu sabia! Ah, que chato, que chato!
+Dialogue: 0,0:08:40.94,0:08:43.91,fonte legenda,,0,0,0,,Tudo bem, vamos pegá-la mesmo assim!
+Dialogue: 0,0:08:43.94,0:08:45.57,fonte legenda,,0,0,0,,Ei, Bulma!
+Dialogue: 0,0:08:45.61,0:08:51.91,fonte legenda,,0,0,0,,Não diga que procurar o Goku era só desculpa\Npara irmos achar as esferas com você?
+Dialogue: 0,0:08:51.95,0:08:53.92,fonte legenda,,0,0,0,,Bingo.
+Dialogue: 0,0:08:53.95,0:08:55.92,fonte legenda,,0,0,0,,Demorou para você entender!
+Dialogue: 0,0:08:55.96,0:08:56.94,fonte legenda,,0,0,0,,Sua...
+Dialogue: 0,0:08:58.62,0:08:59.56,fonte legenda,,0,0,0,,O que é isso?
+Dialogue: 0,0:09:03.96,0:09:08.13,fonte legenda,,0,0,0,,Não sei quem você pensa que é,\Nmas se é assim que você quer, venha!
+Dialogue: 0,0:09:27.25,0:09:30.22,fonte legenda,,0,0,0,,Não tem problema com\Nas habilidades da Bulma-sama!
+Dialogue: 0,0:09:30.26,0:09:32.55,fonte legenda,,0,0,0,,Oolong, isso ainda está te entediando?
+Dialogue: 0,0:09:32.59,0:09:34.56,fonte legenda,,0,0,0,,Já chega! Vamos voltar para casa!
+Dialogue: 0,0:09:34.59,0:09:35.39,fonte legenda,,0,0,0,,Bulma!
+Dialogue: 0,0:09:36.93,0:09:38.56,fonte legenda,,0,0,0,,Quem são esses caras?
+Dialogue: 0,0:09:38.60,0:09:40.33,fonte legenda,,0,0,0,,Agüentem firme!
+Dialogue: 0,0:09:49.61,0:09:52.24,fonte legenda,,0,0,0,,Ei, o avião está afundando!
+Dialogue: 0,0:09:52.28,0:09:55.61,fonte legenda,,0,0,0,,Não se preocupe. Está virando um submarino.
+Dialogue: 0,0:09:59.95,0:10:02.82,fonte legenda,,0,0,0,,Então, quem você acha que eles eram?
+Dialogue: 0,0:10:03.96,0:10:05.58,fonte legenda,,0,0,0,,Ah, está bem na nossa frente.
+Dialogue: 0,0:10:05.62,0:10:08.39,fonte legenda,,0,0,0,,Sim! Lá está, estão vendo?
+Dialogue: 0,0:10:10.63,0:10:14.26,fonte legenda,,0,0,0,,O que você está dizendo? É cedo para comemorar.
+Dialogue: 0,0:10:14.30,0:10:15.27,fonte legenda,,0,0,0,,O que é aquilo?
+Dialogue: 0,0:10:17.30,0:10:18.93,fonte legenda,,0,0,0,,Olhem aquilo!
+Dialogue: 0,0:10:18.97,0:10:22.27,fonte legenda,,0,0,0,,É o emblema do Império de Mifan!
+Dialogue: 0,0:10:22.31,0:10:23.54,fonte legenda,,0,0,0,,Bulma, torpedos!
+Dialogue: 0,0:10:23.58,0:10:24.87,fonte legenda,,0,0,0,,Eu não quero morrer!
+Dialogue: 0,0:10:24.91,0:10:26.21,fonte legenda,,0,0,0,,Você acha que eu quero?
+Dialogue: 0,0:10:41.26,0:10:43.23,fonte legenda,,0,0,0,,Incrível!
+Dialogue: 0,0:10:43.26,0:10:46.23,fonte legenda,,0,0,0,,Algo desse tamanho pode voar pelo céu?
+Dialogue: 0,0:10:46.27,0:10:47.23,fonte legenda,,0,0,0,,Que burro.
+Dialogue: 0,0:10:47.27,0:10:48.76,fonte legenda,,0,0,0,,Ups, minha mão escorregou.
+Dialogue: 0,0:10:54.27,0:10:56.57,fonte legenda,,0,0,0,,S-Sempre que subo num avião,
+Dialogue: 0,0:10:56.61,0:10:58.63,fonte legenda,,0,0,0,,tenho vontade de seqüestrá-lo!
+Dialogue: 0,0:11:10.29,0:11:13.26,fonte legenda,,0,0,0,,Que casa grande!
+Dialogue: 0,0:11:13.29,0:11:15.59,fonte legenda,,0,0,0,,As lutas ocorrem dentro daquele palácio?
+Dialogue: 0,0:11:15.63,0:11:16.46,fonte legenda,,0,0,0,,Certo.
+Dialogue: 0,0:11:16.50,0:11:21.59,fonte legenda,,0,0,0,,Quem for vitorioso receberá o desejo\Ndo seu coração do imperador, como prêmio.
+Dialogue: 0,0:11:21.63,0:11:23.53,fonte legenda,,0,0,0,,O que é um desejo do coração?
+Dialogue: 0,0:11:23.57,0:11:26.87,fonte legenda,,0,0,0,,Qualquer coisa que você quiser dele.
+Dialogue: 0,0:11:26.91,0:11:29.87,fonte legenda,,0,0,0,,Mas eu não quero nada.
+Dialogue: 0,0:11:29.91,0:11:34.97,fonte legenda,,0,0,0,,Você é uma menininha.\NEu vou dar o máximo de mim aqui!
+Dialogue: 0,0:11:36.25,0:11:40.55,fonte legenda,,0,0,0,,Agora, o mais importante\Npara vocês dois é lutar contra
+Dialogue: 0,0:11:40.59,0:11:43.21,fonte legenda,,0,0,0,,oponentes diferentes,\Ne melhorar suas técnicas.
+Dialogue: 0,0:11:43.26,0:11:44.09,fonte legenda,,0,0,0,,Certo!
+Dialogue: 0,0:11:44.92,0:11:48.55,fonte legenda,,0,0,0,,Que vista linda...
+Dialogue: 0,0:11:48.59,0:11:49.89,fonte legenda,,0,0,0,,Que bela paisagem!
+Dialogue: 0,0:11:49.93,0:11:52.09,fonte legenda,,0,0,0,,Mestre Kame, você está babando! Está babando!
+Dialogue: 0,0:11:58.60,0:11:59.66,fonte legenda,,0,0,0,,Conseguimos!
+Dialogue: 0,0:12:00.94,0:12:04.97,fonte legenda,,0,0,0,,Droga, nos atacando de novo! Maldito Mifan!
+Dialogue: 0,0:12:06.95,0:12:08.91,fonte legenda,,0,0,0,,Achem, rápido!
+Dialogue: 0,0:12:08.95,0:12:10.94,fonte legenda,,0,0,0,,Achem a esfera, e serão livres!
+Dialogue: 0,0:12:12.95,0:12:15.98,fonte legenda,,0,0,0,,Papai, o que vai acontecer se dermos a esfera?
+Dialogue: 0,0:12:17.29,0:12:19.09,fonte legenda,,0,0,0,,Dizem que assim que acharem as esferas,
+Dialogue: 0,0:12:19.12,0:12:23.53,fonte legenda,,0,0,0,,eles matarão\Naqueles que trabalharam para eles.
+Dialogue: 0,0:12:23.56,0:12:24.53,fonte legenda,,0,0,0,,Mas por quê?
+Dialogue: 0,0:12:24.56,0:12:26.19,fonte legenda,,0,0,0,,Eu não sei.
+Dialogue: 0,0:12:26.23,0:12:28.53,fonte legenda,,0,0,0,,Deve ter a ver com algum segredo.
+Dialogue: 0,0:12:28.57,0:12:31.20,fonte legenda,,0,0,0,,Upa, vamos para Mifan.
+Dialogue: 0,0:12:31.24,0:12:33.07,fonte legenda,,0,0,0,,O que vocês dois fazem aí?
+Dialogue: 0,0:12:36.24,0:12:37.87,fonte legenda,,0,0,0,,Papai!
+Dialogue: 0,0:12:37.91,0:12:38.71,fonte legenda,,0,0,0,,É o suficiente?
+Dialogue: 0,0:12:40.25,0:12:41.01,fonte legenda,,0,0,0,,O quê!?
+Dialogue: 0,0:12:51.59,0:12:52.89,fonte legenda,,0,0,0,,Só mais uma!
+Dialogue: 0,0:12:52.93,0:12:56.12,fonte legenda,,0,0,0,,Mais uma, e o mundo é nosso!
+Dialogue: 0,0:13:01.27,0:13:05.23,fonte legenda,,0,0,0,,Ministro!\NA sétima esfera chegará em Mifan em breve.
+Dialogue: 0,0:13:05.27,0:13:06.24,fonte legenda,,0,0,0,,Como? É sério?
+Dialogue: 0,0:13:06.27,0:13:07.24,fonte legenda,,0,0,0,,Sim.
+Dialogue: 0,0:13:07.27,0:13:08.24,fonte legenda,,0,0,0,,Espere um minuto.
+Dialogue: 0,0:13:08.27,0:13:14.68,fonte legenda,,0,0,0,,Eu ainda não recebi informações de que\Na esfera da região de Karin foi encontrada.
+Dialogue: 0,0:13:17.28,0:13:19.58,fonte legenda,,0,0,0,,Ah não, fomos vistos!
+Dialogue: 0,0:13:19.62,0:13:20.92,fonte legenda,,0,0,0,,O que é aquilo?
+Dialogue: 0,0:13:20.95,0:13:25.69,fonte legenda,,0,0,0,,É uma câmera foguete que eu fiz para\Ndetectar o comprimento de onda das esferas.
+Dialogue: 0,0:13:26.56,0:13:29.15,fonte legenda,,0,0,0,,Ok, vamos embora!
+Dialogue: 0,0:13:29.90,0:13:30.86,fonte legenda,,0,0,0,,Atire nisso!
+Dialogue: 0,0:13:34.23,0:13:38.86,fonte legenda,,0,0,0,,Ha ha, agora eu sei onde você as esconde!
+Dialogue: 0,0:13:40.24,0:13:44.20,fonte legenda,,0,0,0,,Estou dizendo,\Nnão vou com vocês de novo. Nem pensar.
+Dialogue: 0,0:13:44.24,0:13:46.54,fonte legenda,,0,0,0,,Ah? É uma pena.
+Dialogue: 0,0:13:46.58,0:13:50.88,fonte legenda,,0,0,0,,Dizem que tem muitas garotas bonitas em Mifan.
+Dialogue: 0,0:13:54.61,0:13:58.24,fonte legenda,,0,0,0,,Com todo prazer, eu vou a Mifan com você.
+Dialogue: 0,0:13:58.28,0:14:00.91,fonte legenda,,0,0,0,,E o que te dá tanto prazer, Yamcha?
+Dialogue: 0,0:14:00.95,0:14:03.75,fonte legenda,,0,0,0,,Eu só quis\Ndizer que eu gostaria de ir e participar
+Dialogue: 0,0:14:03.79,0:14:06.72,fonte legenda,,0,0,0,,do Tenkaichi Budokai que estão fazendo lá.
+Dialogue: 0,0:14:07.71,0:14:09.68,fonte legenda,,0,0,0,,Yamcha, eu vou torcer por você!
+Dialogue: 0,0:14:10.63,0:14:14.59,fonte legenda,,0,0,0,,Bulma-san, não me diga que\Nvocê está pensando em invadir o palácio!
+Dialogue: 0,0:14:14.63,0:14:18.13,fonte legenda,,0,0,0,,Depois do que eles nos fizeram,\Nvocê queria que eu esperasse sentada?
+Dialogue: 0,0:14:23.64,0:14:28.55,fonte legenda,,0,0,0,,Ei, Goku,\Ndizem que é saudável comer moderadamente.
+Dialogue: 0,0:14:28.58,0:14:29.41,fonte legenda,,0,0,0,,É mesmo?
+Dialogue: 0,0:14:30.58,0:14:31.88,fonte legenda,,0,0,0,,Desculpe fazê-los esperarem.
+Dialogue: 0,0:14:31.92,0:14:33.35,fonte legenda,,0,0,0,,Quer dizer que vou comer mais ainda!
+Dialogue: 0,0:14:38.26,0:14:39.22,fonte legenda,,0,0,0,,Bem-vindo!
+Dialogue: 0,0:14:42.93,0:14:45.23,fonte legenda,,0,0,0,,O que gostaria de comer?
+Dialogue: 0,0:14:45.26,0:14:48.32,fonte legenda,,0,0,0,,Algo para encher a barriga. Qualquer coisa.
+Dialogue: 0,0:14:50.27,0:14:51.76,fonte legenda,,0,0,0,,Papai, eu só quero água.
+Dialogue: 0,0:14:53.61,0:14:58.04,fonte legenda,,0,0,0,,Não se preocupe.\NTemos dinheiro. Fique a vontade!
+Dialogue: 0,0:15:00.95,0:15:02.24,fonte legenda,,0,0,0,,Isso é ouro!
+Dialogue: 0,0:15:03.95,0:15:05.92,fonte legenda,,0,0,0,,Qualquer coisa que quiser, estaremos ao seu dispor!
+Dialogue: 0,0:15:09.62,0:15:10.55,fonte legenda,,0,0,0,,Epa!
+Dialogue: 0,0:15:11.62,0:15:13.59,fonte legenda,,0,0,0,,O que você fez, Lunch-san?
+Dialogue: 0,0:15:13.63,0:15:17.93,fonte legenda,,0,0,0,,Espere, tudo bem,\Neu não cometi nenhum crime nesse país ainda.
+Dialogue: 0,0:15:17.96,0:15:19.29,fonte legenda,,0,0,0,,Que falta de classe.
+Dialogue: 0,0:15:22.97,0:15:23.70,fonte legenda,,0,0,0,,Vamos! Saiam do caminho!
+Dialogue: 0,0:15:26.87,0:15:27.57,fonte legenda,,0,0,0,,Papai!
+Dialogue: 0,0:15:29.91,0:15:31.43,fonte legenda,,0,0,0,,Hum, delicioso!
+Dialogue: 0,0:15:33.38,0:15:36.44,fonte legenda,,0,0,0,,Vocês! Vocês são de Karin, certo?
+Dialogue: 0,0:15:37.58,0:15:39.28,fonte legenda,,0,0,0,,E qual o problema se formos?
+Dialogue: 0,0:15:39.32,0:15:40.98,fonte legenda,,0,0,0,,Então teremos que olhar suas coisas.
+Dialogue: 0,0:15:41.02,0:15:42.21,fonte legenda,,0,0,0,,Não.
+Dialogue: 0,0:15:42.25,0:15:42.95,fonte legenda,,0,0,0,,O quê!?
+Dialogue: 0,0:15:42.99,0:15:45.08,fonte legenda,,0,0,0,,Upa, se afaste.
+Dialogue: 0,0:15:45.12,0:15:46.39,fonte legenda,,0,0,0,,Certo.
+Dialogue: 0,0:15:46.42,0:15:47.62,fonte legenda,,0,0,0,,Espere!
+Dialogue: 0,0:15:50.90,0:15:52.06,fonte legenda,,0,0,0,,Saia do caminho, pirralho!
+Dialogue: 0,0:15:52.10,0:15:53.33,fonte legenda,,0,0,0,,O que você está fazendo!?
+Dialogue: 0,0:15:55.60,0:15:59.09,fonte legenda,,0,0,0,,Não sou pirralho! Eu sou Son Goku!
+Dialogue: 0,0:16:00.44,0:16:01.70,fonte legenda,,0,0,0,,Então vocês estão juntos?
+Dialogue: 0,0:16:01.74,0:16:02.76,fonte legenda,,0,0,0,,O que você quer dizer?
+Dialogue: 0,0:16:02.81,0:16:04.57,fonte legenda,,0,0,0,,Meta-se conosco e se dará mal!
+Dialogue: 0,0:16:04.61,0:16:07.41,fonte legenda,,0,0,0,,Vamos ver quem vai levar a pior, que tal?
+Dialogue: 0,0:16:07.45,0:16:09.04,fonte legenda,,0,0,0,,L-Lunch-san!
+Dialogue: 0,0:16:09.08,0:16:11.51,fonte legenda,,0,0,0,,Qual o problema?
+Dialogue: 0,0:16:16.72,0:16:17.92,fonte legenda,,0,0,0,,Sgt. Metálico!
+Dialogue: 0,0:16:19.09,0:16:21.29,fonte legenda,,0,0,0,,Q-Quem é ele?
+Dialogue: 0,0:16:21.33,0:16:23.56,fonte legenda,,0,0,0,,Esses caras estão interferindo.
+Dialogue: 0,0:16:26.23,0:16:27.20,fonte legenda,,0,0,0,,Morra!
+Dialogue: 0,0:16:31.80,0:16:32.86,fonte legenda,,0,0,0,,Seu...!
+Dialogue: 0,0:16:36.57,0:16:38.54,fonte legenda,,0,0,0,,Kuririn!
+Dialogue: 0,0:16:38.58,0:16:39.94,fonte legenda,,0,0,0,,Cretino!
+Dialogue: 0,0:16:47.09,0:16:49.92,fonte legenda,,0,0,0,,P-Por favor, parem! Meu restaurante!
+Dialogue: 0,0:16:55.59,0:16:59.59,fonte legenda,,0,0,0,,Incrível! Você segurou meu\Nataque, e não ficou nem arranhado!
+Dialogue: 0,0:17:13.88,0:17:16.87,fonte legenda,,0,0,0,,Ai! Ai ai ai ai!
+Dialogue: 0,0:17:21.19,0:17:26.25,fonte legenda,,0,0,0,,Tao Pai Pai-sama,\Nesses são eles, os de Karin.
+Dialogue: 0,0:17:26.96,0:17:27.95,fonte legenda,,0,0,0,,É!
+Dialogue: 0,0:17:27.99,0:17:32.43,fonte legenda,,0,0,0,,Nesse caso, Sgt. Metálico,\Nnão está lutando com as pessoas erradas?
+Dialogue: 0,0:17:33.43,0:17:35.06,fonte legenda,,0,0,0,,Eles estavam interferindo.
+Dialogue: 0,0:17:35.10,0:17:36.33,fonte legenda,,0,0,0,,Por que estão aqui?
+Dialogue: 0,0:17:36.37,0:17:38.89,fonte legenda,,0,0,0,,Viemos participar do Tenkaichi Budokai.
+Dialogue: 0,0:17:39.34,0:17:41.86,fonte legenda,,0,0,0,,Ah, eu mal posso esperar para ver.
+Dialogue: 0,0:17:43.11,0:17:45.70,fonte legenda,,0,0,0,,Agora, vocês deverão vir comigo.
+Dialogue: 0,0:17:45.74,0:17:46.90,fonte legenda,,0,0,0,,Não iremos.
+Dialogue: 0,0:17:46.95,0:17:49.24,fonte legenda,,0,0,0,,Então irão morrer.
+Dialogue: 0,0:17:49.28,0:17:50.65,fonte legenda,,0,0,0,,O quê!?
+Dialogue: 0,0:17:50.68,0:17:51.51,fonte legenda,,0,0,0,,Papai!
+Dialogue: 0,0:17:51.55,0:17:52.98,fonte legenda,,0,0,0,,Pode vir!
+Dialogue: 0,0:17:53.02,0:17:55.92,fonte legenda,,0,0,0,,Idiota. Então escolheu a morte.
+Dialogue: 0,0:17:55.95,0:18:00.32,fonte legenda,,0,0,0,,Muito bem, aí vai.
+Dialogue: 0,0:18:02.33,0:18:03.35,fonte legenda,,0,0,0,,Ele é rápido!
+Dialogue: 0,0:18:06.46,0:18:08.99,fonte legenda,,0,0,0,,Ei, qual é o problema? Não pode se mexer?
+Dialogue: 0,0:18:10.97,0:18:12.83,fonte legenda,,0,0,0,,Devo te dar uma ajudinha, então?
+Dialogue: 0,0:18:12.87,0:18:14.60,fonte legenda,,0,0,0,,Espere!
+Dialogue: 0,0:18:14.64,0:18:19.08,fonte legenda,,0,0,0,,Percebe que está agindo contra\Nconvidados de Sua Majestade, o Imperador?
+Dialogue: 0,0:18:19.11,0:18:20.94,fonte legenda,,0,0,0,,O quê? O Imperador?
+Dialogue: 0,0:18:21.35,0:18:26.11,fonte legenda,,0,0,0,,Esse homem é o Mestre Kame, que\Ntodos dizem ser o deus das artes marciais.
+Dialogue: 0,0:18:26.52,0:18:32.18,fonte legenda,,0,0,0,,Durante muitos anos, aqueles que participam\Ndo Tenkaichi Budokai que ocorrerá amanhã
+Dialogue: 0,0:18:32.22,0:18:35.89,fonte legenda,,0,0,0,,têm sido considerados\Nconvidados especiais do Império de Mifan.
+Dialogue: 0,0:18:35.93,0:18:38.76,fonte legenda,,0,0,0,,Está dizendo que ele\Nparticipará do Tenkaichi amanhã?
+Dialogue: 0,0:18:38.80,0:18:39.73,fonte legenda,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:18:39.76,0:18:43.06,fonte legenda,,0,0,0,,O que o torna\Num convidado do Imperador também.
+Dialogue: 0,0:18:45.74,0:18:47.00,fonte legenda,,0,0,0,,Muito bem.
+Dialogue: 0,0:18:47.04,0:18:48.47,fonte legenda,,0,0,0,,Papai!
+Dialogue: 0,0:18:48.51,0:18:51.57,fonte legenda,,0,0,0,,Mas até lá, vocês não\Ndarão um passo para fora da cidade.
+Dialogue: 0,0:18:51.61,0:18:54.24,fonte legenda,,0,0,0,,Acaba de ganhar mais um dia de vida.
+Dialogue: 0,0:18:54.28,0:18:56.94,fonte legenda,,0,0,0,,Acha que meu pai\Nserá derrotado por alguém como você?
+Dialogue: 0,0:18:58.65,0:19:00.91,fonte legenda,,0,0,0,,Isso vale para você, também.
+Dialogue: 0,0:19:06.59,0:19:12.09,fonte legenda,,0,0,0,,Não tem erro. Aqueles de Karin estão\Nescondendo as Esferas do Dragão com eles.
+Dialogue: 0,0:19:12.13,0:19:15.76,fonte legenda,,0,0,0,,Se não houvesse testemunhas,\Npoderia tê-la pego a força.
+Dialogue: 0,0:19:15.80,0:19:20.13,fonte legenda,,0,0,0,,Se eles são convidados do imperador,\Nnão há por que nos apressarmos.
+Dialogue: 0,0:19:20.17,0:19:22.33,fonte legenda,,0,0,0,,Podemos esperar até amanhã.
+Dialogue: 0,0:19:22.37,0:19:24.43,fonte legenda,,0,0,0,,Há uma coisa que me incomoda.
+Dialogue: 0,0:19:24.48,0:19:25.77,fonte legenda,,0,0,0,,O que é?
+Dialogue: 0,0:19:25.81,0:19:29.80,fonte legenda,,0,0,0,,Um dos homens parecia ser o Mestre Kame.
+Dialogue: 0,0:19:29.85,0:19:32.11,fonte legenda,,0,0,0,,O quê!? Aquele velho senil?
+Dialogue: 0,0:19:33.52,0:19:37.28,fonte legenda,,0,0,0,,Com o nível atual das habilidades\Ndele, nem precisa mais ter medo.
+Dialogue: 0,0:19:41.43,0:19:46.73,fonte legenda,,0,0,0,,Eles vão matar todos que estão\Najudando a achar as esferas? Isso é tão cruel.
+Dialogue: 0,0:19:46.76,0:19:49.76,fonte legenda,,0,0,0,,O que eles podem estar planejando?
+Dialogue: 0,0:19:49.80,0:19:54.64,fonte legenda,,0,0,0,,O Imperador de Mifan ainda é pequeno.\NNão acho que seja culpa dele.
+Dialogue: 0,0:19:54.67,0:19:57.20,fonte legenda,,0,0,0,,Ao ganhar o Tenkaichi amanhã,
+Dialogue: 0,0:19:57.24,0:20:00.27,fonte legenda,,0,0,0,,posso pedir ao Imperador\Nque salve aquelas pessoas.
+Dialogue: 0,0:20:00.31,0:20:03.37,fonte legenda,,0,0,0,,Estamos totalmente\Ncom você nessa, certo Goku?
+Dialogue: 0,0:20:03.41,0:20:04.44,fonte legenda,,0,0,0,,Sim.
+Dialogue: 0,0:20:04.48,0:20:06.35,fonte legenda,,0,0,0,,Mas uma luta é uma luta.
+Dialogue: 0,0:20:06.38,0:20:12.12,fonte legenda,,0,0,0,,Se qualquer um de nós três ganhar,\Npodemos fazer o mesmo pedido ao imperador?
+Dialogue: 0,0:20:12.16,0:20:13.85,fonte legenda,,0,0,0,,É, foi isso que eu disse.
+Dialogue: 0,0:20:13.89,0:20:19.83,fonte legenda,,0,0,0,,Mas se a esfera aparecer antes disso,\Nseus amigos ainda estão numa fria, não é?
+Dialogue: 0,0:20:19.86,0:20:22.06,fonte legenda,,0,0,0,,Eles nunca a acharão.
+Dialogue: 0,0:20:22.10,0:20:23.93,fonte legenda,,0,0,0,,E por quê?
+Dialogue: 0,0:20:23.97,0:20:24.53,fonte legenda,,0,0,0,,Upa?
+Dialogue: 0,0:20:24.57,0:20:25.93,fonte legenda,,0,0,0,,Certo, papai.
+Dialogue: 0,0:20:28.57,0:20:30.17,fonte legenda,,0,0,0,,Ah, vovozinho!
+Dialogue: 0,0:20:30.21,0:20:32.07,fonte legenda,,0,0,0,,É a minha esfera de quatro estrelas!
+Dialogue: 0,0:20:34.28,0:20:36.08,fonte legenda,,0,0,0,,Minha esfera de quatro estrelas!
+Dialogue: 0,0:20:36.11,0:20:39.41,fonte legenda,,0,0,0,,E para que serve essa esfera?
+Dialogue: 0,0:20:39.48,0:20:42.01,fonte legenda,,0,0,0,,Ten-san, socorro!
+Dialogue: 0,0:20:47.33,0:20:48.79,fonte legenda,,0,0,0,,Ten!
+Dialogue: 0,0:20:48.83,0:20:51.02,fonte legenda,,0,0,0,,Mas o que foi, Majestade?
+Dialogue: 0,0:20:51.06,0:20:53.59,fonte legenda,,0,0,0,,Não se preocupem! Eu chamei o Ten aqui!
+Dialogue: 0,0:20:56.37,0:21:02.93,fonte legenda,,0,0,0,,Meu nome é Chaozu. Ten, você me prometeu que\Nse estivéssemos a sós iria me chamar assim.
+Dialogue: 0,0:21:02.97,0:21:05.07,fonte legenda,,0,0,0,,Afinal de contas, somos amigos.
+Dialogue: 0,0:21:05.11,0:21:06.70,fonte legenda,,0,0,0,,Sim, está bem.
+Dialogue: 0,0:21:06.74,0:21:08.61,fonte legenda,,0,0,0,,Chaozu.
+Dialogue: 0,0:21:08.65,0:21:11.58,fonte legenda,,0,0,0,,Eu recém tive um sonho em que eu era morto!
+Dialogue: 0,0:21:11.62,0:21:18.78,fonte legenda,,0,0,0,,Tenho um pressentimento de que algo ruim\Nvai acontecer amanhã no Tenkaichi Budokai.
+Dialogue: 0,0:21:18.82,0:21:20.31,fonte legenda,,0,0,0,,Sua Majestade.
+Dialogue: 0,0:21:20.36,0:21:21.35,fonte legenda,,0,0,0,,Ten, de novo não!
+Dialogue: 0,0:21:21.39,0:21:23.66,fonte legenda,,0,0,0,,Ah, certo. Desculpe.
+Dialogue: 0,0:21:25.50,0:21:28.52,fonte legenda,,0,0,0,,Você é o único em quem posso confiar, Ten.
+Dialogue: 0,0:21:28.57,0:21:34.77,fonte legenda,,0,0,0,,E graças à técnica que me ensinou, Ten,\Npodemos nos falar mesmo estamos separados.
+Dialogue: 0,0:21:34.81,0:21:38.07,fonte legenda,,0,0,0,,Agora não estou mais sozinho.
+Dialogue: 0,0:21:38.11,0:21:40.94,fonte legenda,,0,0,0,,Sim, Chaozu.
+Dialogue: 0,0:21:50.32,0:21:52.22,fonte legenda,,0,0,0,,Ei, boa sorte, rapazes.
+Dialogue: 0,0:21:52.26,0:21:54.82,fonte legenda,,0,0,0,,Sim! Vou dar o máximo de mim!
+Dialogue: 0,0:21:54.86,0:21:55.45,fonte legenda,,0,0,0,,Eu também!
+Dialogue: 0,0:21:55.49,0:21:56.59,fonte legenda,,0,0,0,,É esse o espírito!
+Dialogue: 0,0:21:56.63,0:21:58.29,fonte legenda,,0,0,0,,Boa sorte, papai!
+Dialogue: 0,0:21:58.33,0:21:59.30,fonte legenda,,0,0,0,,Sim.
+Dialogue: 0,0:21:59.33,0:22:01.56,fonte legenda,,0,0,0,,Son-kun!
+Dialogue: 0,0:22:01.60,0:22:02.86,fonte legenda,,0,0,0,,Vejam, se não é o Son-kun.
+Dialogue: 0,0:22:02.90,0:22:03.70,fonte legenda,,0,0,0,,Bulma!
+Dialogue: 0,0:22:03.74,0:22:06.36,fonte legenda,,0,0,0,,Ah, estão todos aqui então?
+Dialogue: 0,0:22:06.40,0:22:08.24,fonte legenda,,0,0,0,,Bulma-san, o que está fazendo aqui?
+Dialogue: 0,0:22:08.27,0:22:09.67,fonte legenda,,0,0,0,,Você veio para jogarmos...
+Dialogue: 0,0:22:09.71,0:22:13.40,fonte legenda,,0,0,0,,pafu-pafu, pafu-pafu...
+Dialogue: 0,0:22:13.44,0:22:15.34,fonte legenda,,0,0,0,,Você está louco!?
+Dialogue: 0,0:22:15.38,0:22:19.15,fonte legenda,,0,0,0,,Eu estava só brincando...
+Dialogue: 0,0:22:19.18,0:22:21.31,fonte legenda,,0,0,0,,O Yamcha e os outros estão aqui também?
+Dialogue: 0,0:22:21.35,0:22:22.15,fonte legenda,,0,0,0,,Pode apostar.
+Dialogue: 0,0:22:22.19,0:22:24.98,fonte legenda,,0,0,0,,Lá estão eles! Aqui!
+Dialogue: 0,0:22:25.02,0:22:28.08,fonte legenda,,0,0,0,,Esqueça eles, olhe o Radar do Dragão.
+Dialogue: 0,0:22:28.13,0:22:32.39,fonte legenda,,0,0,0,,Ei, uau! Todas as sete estão no mesmo lugar.
+Dialogue: 0,0:22:32.43,0:22:33.12,fonte legenda,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:22:33.16,0:22:36.26,fonte legenda,,0,0,0,,Seis delas dentro do palácio...
+Dialogue: 0,0:22:36.30,0:22:38.53,fonte legenda,,0,0,0,,E quanto a restante, aposto que você a tem!
+Dialogue: 0,0:22:38.57,0:22:40.43,fonte legenda,,0,0,0,,Isso mesmo!
+Dialogue: 0,0:22:40.47,0:22:49.07,fonte legenda,,0,0,0,,Certo! Se eu conseguir as outras seis,\Nposso realizar qualquer desejo que quiser.
+Dialogue: 0,0:22:49.11,0:22:51.88,fonte legenda,,0,0,0,,Diga, Lunch-san, se importaria em me ajudar?
+Dialogue: 0,0:22:51.92,0:22:53.28,fonte legenda,,0,0,0,,V-Você vai me deixar pedir?
+Dialogue: 0,0:23:04.46,0:23:08.59,fonte legenda,,0,0,0,,Senhoras e senhores, humildemente\Nagradecemos a sua presença aqui hoje!
+Dialogue: 0,0:23:08.63,0:23:12.19,fonte legenda,,0,0,0,,Começaremos agora o Tenkaichi\NBudokai para ver quem agüenta mais!
+Dialogue: 0,0:23:12.24,0:23:19.27,fonte legenda,,0,0,0,,O último que sobrar receberá o que seu\Ncoração desejar de Sua Majestade, o Imperador.
+Dialogue: 0,0:23:19.31,0:23:23.27,fonte legenda,,0,0,0,,Os primeiros participantes podem subir, por favor?
+Dialogue: 0,0:23:29.99,0:23:32.79,fonte legenda,,0,0,0,,Imbecil, você está sem sorte.
+Dialogue: 0,0:23:32.82,0:23:35.82,fonte legenda,,0,0,0,,É mesmo? Acho que é você que está sem sorte.
+Dialogue: 0,0:23:35.86,0:23:36.99,fonte legenda,,0,0,0,,O quê!?
+Dialogue: 0,0:23:37.03,0:23:41.02,fonte legenda,,0,0,0,,A luta acabará quando um dos participantes\Ncair do ringue, dizer que se rende
+Dialogue: 0,0:23:41.07,0:23:43.56,fonte legenda,,0,0,0,,ou ficar inconsciente.
+Dialogue: 0,0:23:43.60,0:23:45.36,fonte legenda,,0,0,0,,Ten, qual deles vai ganhar?
+Dialogue: 0,0:23:45.40,0:23:47.20,fonte legenda,,0,0,0,,Provavelmente, o mais magro.
+Dialogue: 0,0:23:47.24,0:23:49.87,fonte legenda,,0,0,0,,O homem de Karin está aqui?
+Dialogue: 0,0:23:49.91,0:23:52.00,fonte legenda,,0,0,0,,Ele é o grandão ali do outro lado.
+Dialogue: 0,0:23:52.04,0:23:53.34,fonte legenda,,0,0,0,,Quando agiremos?
+Dialogue: 0,0:23:53.38,0:23:54.84,fonte legenda,,0,0,0,,Para pegá-lo?
+Dialogue: 0,0:23:54.88,0:24:00.25,fonte legenda,,0,0,0,,O mundo será nosso quando o Tenkaichi acabar.
+Dialogue: 0,0:24:00.28,0:24:02.62,fonte legenda,,0,0,0,,Não há pressa.
+Dialogue: 0,0:24:02.65,0:24:04.25,fonte legenda,,0,0,0,,Comecem!
+Dialogue: 0,0:24:09.59,0:24:12.12,LEGENDA PARA PODERES,,0,0,0,,ROGA-FU-FU-KEN!
+Dialogue: 0,0:24:18.47,0:24:19.44,fonte legenda,,0,0,0,,Ele conseguiu!
+Dialogue: 0,0:24:19.47,0:24:21.94,fonte legenda,,0,0,0,,Isso está ficando interessante!
+Dialogue: 0,0:24:21.97,0:24:24.37,fonte legenda,,0,0,0,,Assim como disse o Ten!
+Dialogue: 0,0:24:25.44,0:24:27.54,fonte legenda,,0,0,0,,Próximo participante, por favor.
+Dialogue: 0,0:24:27.58,0:24:29.81,fonte legenda,,0,0,0,,De jeito nenhum.
+Dialogue: 0,0:24:29.85,0:24:33.65,fonte legenda,,0,0,0,,Eu vou para casa agora.
+Dialogue: 0,0:24:33.68,0:24:35.24,fonte legenda,,0,0,0,,É a nossa vez!
+Dialogue: 0,0:24:35.29,0:24:36.88,fonte legenda,,0,0,0,,O Yamcha-san vai se surpreender!
+Dialogue: 0,0:24:38.66,0:24:40.06,fonte legenda,,0,0,0,,Eu vou primeiro.
+Dialogue: 0,0:24:41.13,0:24:44.39,fonte legenda,,0,0,0,,Papai, boa sorte!
+Dialogue: 0,0:24:48.53,0:24:49.52,fonte legenda,,0,0,0,,Comecem!
+Dialogue: 0,0:24:56.47,0:24:57.94,fonte legenda,,0,0,0,,Olha o movimento do Yamcha!
+Dialogue: 0,0:24:57.98,0:24:58.77,fonte legenda,,0,0,0,,Ah não!
+Dialogue: 0,0:24:58.81,0:25:00.21,fonte legenda,,0,0,0,,Papai!
+Dialogue: 0,0:25:00.24,0:25:04.41,fonte legenda,,0,0,0,,Hein? Quer que eu me\Ntransforme naquele velho com cara de safado?
+Dialogue: 0,0:25:04.45,0:25:09.04,fonte legenda,,0,0,0,,Oolong, não quer\Nconhecer as princesas dentro do palácio?
+Dialogue: 0,0:25:09.09,0:25:13.89,fonte legenda,,0,0,0,,Sinto que você está\Ntentando se aproveitar de mim.
+Dialogue: 0,0:25:13.93,0:25:16.26,fonte legenda,,0,0,0,,Transformação!
+Dialogue: 0,0:25:16.29,0:25:18.02,fonte legenda,,0,0,0,,Como eu estou?
+Dialogue: 0,0:25:18.06,0:25:19.09,fonte legenda,,0,0,0,,Ótimo! Está perfeito!
+Dialogue: 0,0:25:19.13,0:25:21.10,fonte legenda,,0,0,0,,Transformação!
+Dialogue: 0,0:25:21.13,0:25:24.57,fonte legenda,,0,0,0,,O que achou?
+Dialogue: 0,0:25:25.74,0:25:26.86,fonte legenda,,0,0,0,,Tenta de novo.
+Dialogue: 0,0:25:28.41,0:25:30.74,fonte legenda,,0,0,0,,Yamcha-san! Viu aquela garota peituda!?
+Dialogue: 0,0:25:35.85,0:25:37.61,fonte legenda,,0,0,0,,Fora da plataforma!
+Dialogue: 0,0:25:37.65,0:25:39.74,fonte legenda,,0,0,0,,O-O que foi isso?
+Dialogue: 0,0:25:39.78,0:25:41.81,fonte legenda,,0,0,0,,Muito bem, papai!
+Dialogue: 0,0:25:41.85,0:25:44.12,fonte legenda,,0,0,0,,Espero que o Yamcha-san esteja bem.
+Dialogue: 0,0:25:44.16,0:25:47.59,fonte legenda,,0,0,0,,Não se preocupe. Ele parece muito bem.
+Dialogue: 0,0:25:47.63,0:25:49.12,fonte legenda,,0,0,0,,Ele é resistente. Mas...
+Dialogue: 0,0:25:50.09,0:25:55.09,fonte legenda,,0,0,0,,Não há mais\Ncompetidores para subirem no ringue?
+Dialogue: 0,0:25:55.13,0:25:57.97,fonte legenda,,0,0,0,,Só sobrou a gente.
+Dialogue: 0,0:25:58.00,0:25:59.90,fonte legenda,,0,0,0,,Talvez Bora possa ver o Imperador agora.
+Dialogue: 0,0:25:59.94,0:26:03.07,fonte legenda,,0,0,0,,Se não há outros,\Nentão declaro o vencedor desse Tenkaichi...
+Dialogue: 0,0:26:03.11,0:26:05.44,fonte legenda,,0,0,0,,Espere!
+Dialogue: 0,0:26:09.88,0:26:11.25,fonte legenda,,0,0,0,,Goku, é ele!
+Dialogue: 0,0:26:11.28,0:26:12.41,fonte legenda,,0,0,0,,Droga!
+Dialogue: 0,0:26:12.45,0:26:14.42,fonte legenda,,0,0,0,,Ten, e agora, qual deles?
+Dialogue: 0,0:26:14.45,0:26:17.22,fonte legenda,,0,0,0,,Tao Pai Pai-sama nunca perdeu uma luta.
+Dialogue: 0,0:26:18.62,0:26:21.75,fonte legenda,,0,0,0,,Bem, por que ainda não começamos a lutar?
+Dialogue: 0,0:26:21.79,0:26:24.09,fonte legenda,,0,0,0,,Ah, sim, comecem!
+Dialogue: 0,0:26:26.23,0:26:28.96,fonte legenda,,0,0,0,,Qual é o problema?\NNão precisa ficar envergonhado.
+Dialogue: 0,0:26:31.97,0:26:33.13,fonte legenda,,0,0,0,,E aí.
+Dialogue: 0,0:26:33.17,0:26:34.90,fonte legenda,,0,0,0,,Bom trabalho.
+Dialogue: 0,0:26:34.94,0:26:35.96,fonte legenda,,0,0,0,,Ah, não!
+Dialogue: 0,0:26:36.24,0:26:39.47,fonte legenda,,0,0,0,,Qual é o problema, Majestade?\NCirculando sem uma escolta?
+Dialogue: 0,0:26:39.51,0:26:41.84,fonte legenda,,0,0,0,,Estou com alguns convidados, entendeu?
+Dialogue: 0,0:26:41.88,0:26:45.14,fonte legenda,,0,0,0,,Convidados? De onde?
+Dialogue: 0,0:26:45.18,0:26:51.71,fonte legenda,,0,0,0,,Somos parentes distantes de Sua Majestade,\Ne ele estava conosco num tour pessoal.
+Dialogue: 0,0:26:51.76,0:26:57.02,fonte legenda,,0,0,0,,Isso é gracioso. Mas você\Nnão vai apreciar o Tenkaichi Budokai?
+Dialogue: 0,0:26:57.06,0:26:59.69,fonte legenda,,0,0,0,,Você está ficando chato!
+Dialogue: 0,0:27:01.27,0:27:05.60,fonte legenda,,0,0,0,,Olha, não são bonitos? Eu vou ficar com eles!
+Dialogue: 0,0:27:11.81,0:27:15.27,fonte legenda,,0,0,0,,Diga, onde está a Esfera do Dragão?
+Dialogue: 0,0:27:17.62,0:27:18.84,fonte legenda,,0,0,0,,P-Papai!
+Dialogue: 0,0:27:23.12,0:27:26.18,fonte legenda,,0,0,0,,Bora! Já chega! Deixe com a gente!
+Dialogue: 0,0:27:26.22,0:27:27.69,fonte legenda,,0,0,0,,Vamos, diga que se rende!
+Dialogue: 0,0:27:27.73,0:27:29.49,fonte legenda,,0,0,0,,Ten, que cruel!
+Dialogue: 0,0:27:29.53,0:27:32.43,fonte legenda,,0,0,0,,Artes marciais é muito duro.
+Dialogue: 0,0:27:32.46,0:27:38.20,fonte legenda,,0,0,0,,Você quer morrer, então?\NPosso saber sem perguntar para você.
+Dialogue: 0,0:27:38.24,0:27:42.04,fonte legenda,,0,0,0,,V-Você acha que eu iria entregá-la de graça?
+Dialogue: 0,0:27:42.07,0:27:44.06,fonte legenda,,0,0,0,,Tudo bem, seu...
+Dialogue: 0,0:27:58.06,0:27:59.11,fonte legenda,,0,0,0,,Papai!
+Dialogue: 0,0:28:00.09,0:28:01.06,fonte legenda,,0,0,0,,Papai!
+Dialogue: 0,0:28:06.17,0:28:09.47,fonte legenda,,0,0,0,,Miserável! Como ousa fazer isso com o Bora!?
+Dialogue: 0,0:28:09.50,0:28:11.23,fonte legenda,,0,0,0,,Você quer morrer também?
+Dialogue: 0,0:28:11.27,0:28:13.60,fonte legenda,,0,0,0,,Quem, eu?
+Dialogue: 0,0:28:25.92,0:28:28.51,fonte legenda,,0,0,0,,Eles devem possuir a esfera.
+Dialogue: 0,0:28:30.12,0:28:32.11,fonte legenda,,0,0,0,,Reviste-os!
+Dialogue: 0,0:28:32.16,0:28:34.22,fonte legenda,,0,0,0,,Ten, faça-os parar!
+Dialogue: 0,0:28:34.26,0:28:35.59,fonte legenda,,0,0,0,,Faça-os parar!
+Dialogue: 0,0:28:35.63,0:28:37.69,fonte legenda,,0,0,0,,Ten!
+Dialogue: 0,0:28:37.73,0:28:38.46,fonte legenda,,0,0,0,,Cala a boca!
+Dialogue: 0,0:28:41.20,0:28:44.50,fonte legenda,,0,0,0,,Você já terminou? Que insatisfação!
+Dialogue: 0,0:28:44.54,0:28:47.77,fonte legenda,,0,0,0,,Maldito...
+Dialogue: 0,0:28:47.81,0:28:50.17,fonte legenda,,0,0,0,,Ah, você não está morto ainda?
+Dialogue: 0,0:28:50.21,0:28:51.47,fonte legenda,,0,0,0,,Tome isso!
+Dialogue: 0,0:28:51.51,0:28:52.94,LEGENDA PARA PODERES,,0,0,0,,KA...
+Dialogue: 0,0:28:52.98,0:28:56.14,LEGENDA PARA PODERES,,0,0,0,,ME... HA...
+Dialogue: 0,0:28:56.18,0:28:58.24,LEGENDA PARA PODERES,,0,0,0,,ME...
+Dialogue: 0,0:28:59.72,0:29:01.58,LEGENDA PARA PODERES,,0,0,0,,HA!!
+Dialogue: 0,0:29:09.16,0:29:10.39,fonte legenda,,0,0,0,,Seu...
+Dialogue: 0,0:29:10.43,0:29:12.59,fonte legenda,,0,0,0,,N-Não fez efeito!
+Dialogue: 0,0:29:12.63,0:29:16.50,LEGENDA PARA PODERES,,0,0,0,,DODON-PA!!
+Dialogue: 0,0:29:20.40,0:29:25.17,fonte legenda,,0,0,0,,Que tal, Mestre Kame? Você\Nentende como o Tao Pai Pai é terrível agora?
+Dialogue: 0,0:29:25.21,0:29:27.14,fonte legenda,,0,0,0,,Ora, seu miserável...
+Dialogue: 0,0:29:27.18,0:29:31.67,fonte legenda,,0,0,0,,Agora as esferas são todas minhas,\Ne o mundo está nas minhas mãos!
+Dialogue: 0,0:29:31.72,0:29:34.21,fonte legenda,,0,0,0,,E quanto a minha Ran Ran-chan?
+Dialogue: 0,0:29:34.25,0:29:36.41,fonte legenda,,0,0,0,,Ran Ran-chan?
+Dialogue: 0,0:29:37.62,0:29:41.08,fonte legenda,,0,0,0,,Majestade, sinto dizer que as coisas\Nnão dependem mais da sua vontade.
+Dialogue: 0,0:29:44.89,0:29:47.99,fonte legenda,,0,0,0,,Eu fui enganado.
+Dialogue: 0,0:29:55.11,0:29:56.98,fonte legenda,,0,0,0,,Ow, ow, ow!
+Dialogue: 0,0:29:57.57,0:30:01.87,fonte legenda,,0,0,0,,A Esfera do Dragão se moveu\Npara um lugar a 2300 km para o nordeste.
+Dialogue: 0,0:30:01.87,0:30:02.80,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:30:09.21,0:30:12.65,fonte legenda,,0,0,0,,Parece que isso salvou sua vida.
+Dialogue: 0,0:30:14.05,0:30:17.64,fonte legenda,,0,0,0,,Sério? O vovozinho salvou minha vida.
+Dialogue: 0,0:30:17.64,0:30:20.13,fonte legenda,,0,0,0,,Você quer vencer Tao Pai Pai?
+Dialogue: 0,0:30:20.17,0:30:23.11,fonte legenda,,0,0,0,,Quem é você? Como você sabe disso?
+Dialogue: 0,0:30:23.14,0:30:26.17,fonte legenda,,0,0,0,,Não pode ser\Nchamado de ermitão se puder ler mentes.
+Dialogue: 0,0:30:26.21,0:30:28.91,fonte legenda,,0,0,0,,Eu vou fazê-lo pagar!
+Dialogue: 0,0:30:31.28,0:30:32.95,fonte legenda,,0,0,0,,Aqui, coma isso.
+Dialogue: 0,0:30:34.25,0:30:35.38,fonte legenda,,0,0,0,,O que é isso?
+Dialogue: 0,0:30:35.42,0:30:41.02,fonte legenda,,0,0,0,,Chama-se Senzu. Apenas uma dessas abençoadas\Nsementes vai restaurar suas energias.
+Dialogue: 0,0:30:41.06,0:30:43.09,fonte legenda,,0,0,0,,Só isso?
+Dialogue: 0,0:30:50.97,0:30:54.96,fonte legenda,,0,0,0,,Isso mesmo! Incrível! Não posso acreditar!
+Dialogue: 0,0:30:56.58,0:30:59.07,fonte legenda,,0,0,0,,Certo, vou acabar com aquele rato dessa vez!
+Dialogue: 0,0:30:59.11,0:31:00.08,fonte legenda,,0,0,0,,Está voltando, então?
+Dialogue: 0,0:31:00.11,0:31:04.24,fonte legenda,,0,0,0,,Obrigado por tudo.\NPosso ter minha esfera de volta?
+Dialogue: 0,0:31:10.52,0:31:12.08,fonte legenda,,0,0,0,,O que pensa que está fazendo?
+Dialogue: 0,0:31:13.09,0:31:14.58,fonte legenda,,0,0,0,,Apresse-se e prepare nosso jato!
+Dialogue: 0,0:31:14.63,0:31:18.19,fonte legenda,,0,0,0,,Não precisarei disso. Demoraria muito.
+Dialogue: 0,0:31:18.23,0:31:21.83,fonte legenda,,0,0,0,,Em pensar que o garoto portava a esfera.
+Dialogue: 0,0:31:28.61,0:31:33.38,fonte legenda,,0,0,0,,2300 km a nordeste?\NVoltarei em trinta minutos.
+Dialogue: 0,0:31:41.32,0:31:45.66,fonte legenda,,0,0,0,,Ai, droga, como essa porcaria funciona?
+Dialogue: 0,0:31:45.69,0:31:48.99,fonte legenda,,0,0,0,,Aqui, Aqui...
+Dialogue: 0,0:31:52.10,0:31:53.36,fonte legenda,,0,0,0,,Aí estão elas!
+Dialogue: 0,0:31:53.40,0:31:55.13,fonte legenda,,0,0,0,,Não! Temos ladrões!
+Dialogue: 0,0:31:55.17,0:31:55.93,fonte legenda,,0,0,0,,Já!
+Dialogue: 0,0:31:55.97,0:31:56.59,fonte legenda,,0,0,0,,Certo!
+Dialogue: 0,0:32:04.54,0:32:06.48,fonte legenda,,0,0,0,,Pode ver?
+Dialogue: 0,0:32:06.51,0:32:08.74,fonte legenda,,0,0,0,,A água está mexendo muito, não dá para ver.
+Dialogue: 0,0:32:08.78,0:32:10.15,fonte legenda,,0,0,0,,Que tal agora?
+Dialogue: 0,0:32:13.22,0:32:14.41,fonte legenda,,0,0,0,,Posso ver bem agora.
+Dialogue: 0,0:32:14.45,0:32:16.25,fonte legenda,,0,0,0,,Então você entende?
+Dialogue: 0,0:32:16.29,0:32:17.42,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:32:17.46,0:32:24.39,fonte legenda,,0,0,0,,Seu amigo tinha sido morto,\Ne você estava muito furioso por isso.
+Dialogue: 0,0:32:24.43,0:32:25.42,fonte legenda,,0,0,0,,Claro que eu estava!
+Dialogue: 0,0:32:25.47,0:32:29.42,fonte legenda,,0,0,0,,É por isso que não podia ver\No seu oponente muito bem, e foi derrotado.
+Dialogue: 0,0:32:29.47,0:32:35.67,fonte legenda,,0,0,0,,A menos que acalme o seu coração como a água,\Nnão conseguirá ver o seu oponente muito bem.
+Dialogue: 0,0:32:35.71,0:32:38.70,fonte legenda,,0,0,0,,E como resultado,\Ntambém não conseguirá atacá-lo.
+Dialogue: 0,0:32:38.75,0:32:42.31,fonte legenda,,0,0,0,,Você deve ser um daqueles\Nmestres poderosos, não é?
+Dialogue: 0,0:32:42.35,0:32:44.58,fonte legenda,,0,0,0,,Finalmente percebeu?\NA partir de agora, me chame de Karin-sama.
+Dialogue: 0,0:32:44.62,0:32:50.65,fonte legenda,,0,0,0,,A princípio, eu não ajudaria se\Nvocê não tivesse subido desde o chão.
+Dialogue: 0,0:32:50.69,0:32:54.52,fonte legenda,,0,0,0,,Mas visto que você comeu\Nminha comida, eu deixarei essa passar.
+Dialogue: 0,0:32:54.56,0:32:58.62,fonte legenda,,0,0,0,,Eu teria que subir tudo isso?
+Dialogue: 0,0:32:58.67,0:33:02.00,fonte legenda,,0,0,0,,E também seria uma\Nconfusão se o seu oponente se juntasse a nós.
+Dialogue: 0,0:33:02.04,0:33:05.37,fonte legenda,,0,0,0,,Meu oponente? Quer dizer Tao Pai Pai?
+Dialogue: 0,0:33:05.41,0:33:08.00,fonte legenda,,0,0,0,,Ele está vindo numa\Nvelocidade incrível daquela direção.
+Dialogue: 0,0:33:08.04,0:33:10.13,fonte legenda,,0,0,0,,Certo, não perderei dessa vez.
+Dialogue: 0,0:33:10.18,0:33:13.11,fonte legenda,,0,0,0,,Kinto-Un!
+Dialogue: 0,0:33:20.32,0:33:22.65,fonte legenda,,0,0,0,,Bem, obrigado por tudo, Karin-sama!
+Dialogue: 0,0:33:25.89,0:33:28.59,fonte legenda,,0,0,0,,Que garoto.
+Dialogue: 0,0:33:28.63,0:33:30.32,fonte legenda,,0,0,0,,Esqueci minha esfera!
+Dialogue: 0,0:33:42.54,0:33:43.74,fonte legenda,,0,0,0,,O que é aquilo?
+Dialogue: 0,0:33:44.01,0:33:49.24,fonte legenda,,0,0,0,,O que é aquilo?
+Dialogue: 0,0:33:50.75,0:33:52.15,fonte legenda,,0,0,0,,Você veio!
+Dialogue: 0,0:33:52.19,0:33:53.21,fonte legenda,,0,0,0,,Impossível!
+Dialogue: 0,0:33:58.22,0:33:59.82,fonte legenda,,0,0,0,,O que aconteceu?
+Dialogue: 0,0:34:07.10,0:34:09.09,fonte legenda,,0,0,0,,Toma isso!
+Dialogue: 0,0:34:11.77,0:34:13.76,fonte legenda,,0,0,0,,Agora é minha vez!
+Dialogue: 0,0:34:15.11,0:34:18.08,LEGENDA PARA PODERES,,0,0,0,,DODON-PA!
+Dialogue: 0,0:34:18.11,0:34:19.44,fonte legenda,,0,0,0,,Bulma!
+Dialogue: 0,0:34:23.52,0:34:24.11,fonte legenda,,0,0,0,,Fugiram!
+Dialogue: 0,0:34:46.11,0:34:48.97,fonte legenda,,0,0,0,,Sgt. Metálico! Pegue o garoto como refém!
+Dialogue: 0,0:34:52.45,0:34:53.24,fonte legenda,,0,0,0,,Upa!
+Dialogue: 0,0:34:53.28,0:34:54.08,fonte legenda,,0,0,0,,Droga!
+Dialogue: 0,0:35:00.75,0:35:02.41,fonte legenda,,0,0,0,,Mestre Kame!
+Dialogue: 0,0:35:02.46,0:35:03.51,fonte legenda,,0,0,0,,Ele não está morto.
+Dialogue: 0,0:35:03.56,0:35:07.39,fonte legenda,,0,0,0,,Entretanto,\Nele não vai mais recobrar a consciência.
+Dialogue: 0,0:35:07.39,0:35:09.42,fonte legenda,,0,0,0,,Muito bem, Tenshinhan!
+Dialogue: 0,0:35:09.46,0:35:11.56,fonte legenda,,0,0,0,,Agora, acabe com o Imperador!
+Dialogue: 0,0:35:11.60,0:35:15.36,fonte legenda,,0,0,0,,Mas, contanto\Nque tenhamos as esferas em mãos...
+Dialogue: 0,0:35:15.40,0:35:19.17,fonte legenda,,0,0,0,,É apenas para se certificar.\NA nação só precisa de um imperador.
+Dialogue: 0,0:35:19.21,0:35:24.84,fonte legenda,,0,0,0,,O resto de vocês cuidem do palácio, e acabem\Ncom aqueles que roubaram as Esferas do Dragão!
+Dialogue: 0,0:35:28.01,0:35:32.21,fonte legenda,,0,0,0,,Agora só nos resta\Nesperar a volta de Tao Pai Pai.
+Dialogue: 0,0:35:33.95,0:35:37.91,fonte legenda,,0,0,0,,Ei, está bem?
+Dialogue: 0,0:35:48.65,0:35:51.61,fonte legenda,,0,0,0,,Droga, o que aconteceu? Onde estou?
+Dialogue: 0,0:35:51.62,0:35:53.39,fonte legenda,,0,0,0,,Na Vila Pingüim.
+Dialogue: 0,0:35:53.40,0:35:55.06,fonte legenda,,0,0,0,,Vila Pingüim? Nunca ouvi falar.
+Dialogue: 0,0:35:55.85,0:35:59.19,fonte legenda,,0,0,0,,Eu gostaria de saber como o garoto sobreviveu.
+Dialogue: 0,0:35:58.44,0:36:01.31,fonte legenda,,0,0,0,,Ei, ei, amiguinho, vamos brincar!
+Dialogue: 0,0:36:01.35,0:36:02.28,fonte legenda,,0,0,0,,Amiguinho?
+Dialogue: 0,0:36:02.32,0:36:07.78,fonte legenda,,0,0,0,,Essa pirralha espera que o maior\Nassassino do mundo brinque com ela?
+Dialogue: 0,0:36:07.82,0:36:10.12,fonte legenda,,0,0,0,,Ok? Ok?
+Dialogue: 0,0:36:11.03,0:36:12.79,fonte legenda,,0,0,0,,Eu te achei!
+Dialogue: 0,0:36:12.83,0:36:16.20,fonte legenda,,0,0,0,,Ele está aqui!
+Dialogue: 0,0:36:17.04,0:36:18.83,fonte legenda,,0,0,0,,Que legal!
+Dialogue: 0,0:36:18.83,0:36:20.93,fonte legenda,,0,0,0,,Você realmente me bateu da última vez!
+Dialogue: 0,0:36:22.83,0:36:26.84,fonte legenda,,0,0,0,,Quanto aquilo, como você\Nconseguiu sobreviver ao meu Dodon-Pa?
+Dialogue: 0,0:36:26.84,0:36:30.97,fonte legenda,,0,0,0,,Eu fui salvo pela esfera\Nque estava guardada na minha roupa.
+Dialogue: 0,0:36:31.01,0:36:35.95,fonte legenda,,0,0,0,,Então era isso. Você teve sorte.\NAgora me dê a Esfera do Dragão.
+Dialogue: 0,0:36:35.98,0:36:39.42,fonte legenda,,0,0,0,,Não vou entregá-la, e não perderei de novo!
+Dialogue: 0,0:36:40.65,0:36:42.52,fonte legenda,,0,0,0,,Não tem noção do perigo que sofre.
+Dialogue: 0,0:36:44.06,0:36:46.78,fonte legenda,,0,0,0,,Vou tirar sua vida em apenas três segundos.
+Dialogue: 0,0:36:51.73,0:36:53.89,fonte legenda,,0,0,0,,Conseguimos! Conseguimos!
+Dialogue: 0,0:36:57.20,0:37:01.14,fonte legenda,,0,0,0,,Aquela pirralha e seus amigos! Ela vai pagar!
+Dialogue: 0,0:37:01.83,0:37:04.17,LEGENDA PARA PODERES,,0,0,0,,DODON-PA!!
+Dialogue: 0,0:37:04.17,0:37:05.67,fonte legenda,,0,0,0,,Pare!
+Dialogue: 0,0:37:05.67,0:37:08.84,fonte legenda,,0,0,0,,Hoyo!?
+Dialogue: 0,0:37:09.75,0:37:10.77,fonte legenda,,0,0,0,,Está bem!?
+Dialogue: 0,0:37:15.69,0:37:16.71,fonte legenda,,0,0,0,,Incrível!
+Dialogue: 0,0:37:16.76,0:37:20.39,fonte legenda,,0,0,0,,Ah! Ele brincou comigo!
+Dialogue: 0,0:37:21.89,0:37:27.02,fonte legenda,,0,0,0,,Você... O que aconteceu aqui?
+Dialogue: 0,0:37:27.02,0:37:27.36,fonte legenda,,0,0,0,,Hoyo?
+Dialogue: 0,0:37:39.21,0:37:40.70,fonte legenda,,0,0,0,,Que legal!
+Dialogue: 0,0:37:42.92,0:37:46.91,fonte legenda,,0,0,0,,Já passou bem mais de três segundos, sabia?
+Dialogue: 0,0:37:46.95,0:37:50.29,fonte legenda,,0,0,0,,Agora vou lutar a sério com você!
+Dialogue: 0,0:37:50.32,0:37:51.72,fonte legenda,,0,0,0,,Ótimo! Venha!
+Dialogue: 0,0:37:51.76,0:37:54.39,fonte legenda,,0,0,0,,Morra! Agora pra valer!
+Dialogue: 0,0:37:55.66,0:37:58.60,LEGENDA PARA PODERES,,0,0,0,,DODON-PA!!
+Dialogue: 0,0:37:58.63,0:38:00.19,fonte legenda,,0,0,0,,Hoyo!
+Dialogue: 0,0:38:01.10,0:38:02.96,fonte legenda,,0,0,0,,Eu posso ver! Eu posso segurá-lo!
+Dialogue: 0,0:38:09.08,0:38:11.84,fonte legenda,,0,0,0,,Ai!
+Dialogue: 0,0:38:13.31,0:38:17.11,fonte legenda,,0,0,0,,Impossível! Meu Dodon-Pa...
+Dialogue: 0,0:38:18.75,0:38:23.29,fonte legenda,,0,0,0,,O seu golpe sei-lá-o-que-Pa\Nnão funciona mais em mim!
+Dialogue: 0,0:38:23.29,0:38:25.96,fonte legenda,,0,0,0,,Incrível, não é, Gat-chan?
+Dialogue: 0,0:38:25.96,0:38:29.09,fonte legenda,,0,0,0,,Eu não acredito!\NComo essa loucura pode estar acontecendo?
+Dialogue: 0,0:38:29.13,0:38:31.49,fonte legenda,,0,0,0,,Agora é minha vez!
+Dialogue: 0,0:38:33.80,0:38:37.76,fonte legenda,,0,0,0,,E agora? Esse não é meu dia de sorte.\NOs pirralhos estão com a sorte do lado deles.
+Dialogue: 0,0:38:37.80,0:38:39.74,fonte legenda,,0,0,0,,Whee! Whee!
+Dialogue: 0,0:38:39.77,0:38:43.37,fonte legenda,,0,0,0,,Desculpe! Eu fui mal. Perdoe-me!
+Dialogue: 0,0:38:46.55,0:38:50.88,fonte legenda,,0,0,0,,Hoyo! Como você fez isso!? Mostra de novo!
+Dialogue: 0,0:38:50.92,0:38:53.35,fonte legenda,,0,0,0,,Jovemzinha, seja uma boa menina, até depois!
+Dialogue: 0,0:38:54.99,0:38:59.01,fonte legenda,,0,0,0,,Entre. Voltaremos e eu\Npedirei desculpas na frente de todos!
+Dialogue: 0,0:38:59.06,0:39:01.22,fonte legenda,,0,0,0,,Você diz isso agora, mas...
+Dialogue: 0,0:39:01.26,0:39:02.52,fonte legenda,,0,0,0,,Venha, venha.
+Dialogue: 0,0:39:02.56,0:39:05.16,fonte legenda,,0,0,0,,Ei, ladrão! Kinto-Un!
+Dialogue: 0,0:39:05.20,0:39:07.32,fonte legenda,,0,0,0,,Ei, ei, mais uma vez!
+Dialogue: 0,0:39:08.97,0:39:10.33,fonte legenda,,0,0,0,,Idiotas! Morram!
+Dialogue: 0,0:39:12.07,0:39:13.06,fonte legenda,,0,0,0,,Hoyo?
+Dialogue: 0,0:39:16.98,0:39:18.64,fonte legenda,,0,0,0,,É isso que merecem!
+Dialogue: 0,0:39:28.85,0:39:30.88,fonte legenda,,0,0,0,,Adeus!
+Dialogue: 0,0:39:34.76,0:39:39.32,fonte legenda,,0,0,0,,O quê!?\NAs esferas caíram num abismo sem fundo?
+Dialogue: 0,0:39:39.37,0:39:42.93,fonte legenda,,0,0,0,,Droga. Acho que teremos de nos\Nconformar com esse país por enquanto.
+Dialogue: 0,0:39:44.17,0:39:46.80,fonte legenda,,0,0,0,,Não pense mais em mim, Chaozu.\NEu o farei descansar para sempre.
+Dialogue: 0,0:39:46.84,0:39:48.43,fonte legenda,,0,0,0,,Você me chamou de Chaozu!
+Dialogue: 0,0:39:49.94,0:39:51.88,fonte legenda,,0,0,0,,Meu amigo!
+Dialogue: 0,0:39:53.48,0:39:55.38,fonte legenda,,0,0,0,,Quem está chamando de amigo!?
+Dialogue: 0,0:39:55.41,0:39:57.88,fonte legenda,,0,0,0,,Você está errado.
+Dialogue: 0,0:39:57.92,0:39:58.65,fonte legenda,,0,0,0,,O quê!?
+Dialogue: 0,0:39:58.68,0:40:00.88,fonte legenda,,0,0,0,,Você! Mas como?
+Dialogue: 0,0:40:00.92,0:40:03.35,fonte legenda,,0,0,0,,O Mestre Kame está vivo!
+Dialogue: 0,0:40:03.39,0:40:06.95,fonte legenda,,0,0,0,,Com o nível da sua técnica,\Npor que não a usa pelo caminho correto?
+Dialogue: 0,0:40:06.99,0:40:11.83,fonte legenda,,0,0,0,,Mestre Kame! Faça qualquer\Nestupidez, e esse garoto perde a vida!
+Dialogue: 0,0:40:11.86,0:40:12.73,fonte legenda,,0,0,0,,O quê!?
+Dialogue: 0,0:40:12.77,0:40:16.03,fonte legenda,,0,0,0,,Ten! O que está fazendo! Mate-o, agora!
+Dialogue: 0,0:40:38.02,0:40:43.36,fonte legenda,,0,0,0,,Qual é o problema, Ten!?\NIsso é uma ordem! Mate-o! Mate-o!
+Dialogue: 0,0:40:48.43,0:40:49.96,fonte legenda,,0,0,0,,Ten!
+Dialogue: 0,0:40:57.28,0:40:58.97,fonte legenda,,0,0,0,,Como você ousa?
+Dialogue: 0,0:40:59.01,0:41:04.51,fonte legenda,,0,0,0,,Como você ousa me desafiar dessa forma!?\NVocê é patético! Esqueceu a quem obedece!?
+Dialogue: 0,0:41:05.95,0:41:10.68,fonte legenda,,0,0,0,,Não tenho nada contra você,\Nmas isso é para que eu me torne imperador.
+Dialogue: 0,0:41:10.72,0:41:13.59,fonte legenda,,0,0,0,,Você devia ser grato por\Neu te matar pessoalmente.
+Dialogue: 0,0:41:13.63,0:41:16.29,fonte legenda,,0,0,0,,Pare com isso, Mestre Tsuru!
+Dialogue: 0,0:41:16.33,0:41:19.46,fonte legenda,,0,0,0,,Não se mexa!
+Dialogue: 0,0:41:23.90,0:41:25.27,LEGENDA PARA PODERES,,0,0,0,,DODON-
+Dialogue: 0,0:41:25.30,0:41:27.10,LEGENDA PARA PODERES,,0,0,0,,PA!!
+Dialogue: 0,0:41:27.14,0:41:29.37,LEGENDA PARA PODERES,,0,0,0,,KIKO-HO!!
+Dialogue: 0,0:41:47.63,0:41:49.36,fonte legenda,,0,0,0,,Eu vou matá-lo.
+Dialogue: 0,0:41:58.47,0:41:59.67,fonte legenda,,0,0,0,,Goku!
+Dialogue: 0,0:41:59.71,0:42:00.97,fonte legenda,,0,0,0,,Ow ow ow ow!
+Dialogue: 0,0:42:01.01,0:42:02.94,fonte legenda,,0,0,0,,Você está vivo!?
+Dialogue: 0,0:42:02.98,0:42:05.71,fonte legenda,,0,0,0,,Goku-san!
+Dialogue: 0,0:42:05.75,0:42:07.14,fonte legenda,,0,0,0,,Majestade!
+Dialogue: 0,0:42:07.18,0:42:09.11,fonte legenda,,0,0,0,,Está tudo bem.
+Dialogue: 0,0:42:10.55,0:42:13.92,fonte legenda,,0,0,0,,Ran Ran!
+Dialogue: 0,0:42:13.95,0:42:16.82,fonte legenda,,0,0,0,,Disseram para eu escondê-la de você.
+Dialogue: 0,0:42:16.86,0:42:19.72,fonte legenda,,0,0,0,,Faça o que quiser comigo.
+Dialogue: 0,0:42:21.93,0:42:25.99,fonte legenda,,0,0,0,,Ten-san,\Nvocê é mesmo meu amigo! Você me salvou!
+Dialogue: 0,0:42:28.53,0:42:30.06,fonte legenda,,0,0,0,,Chaozu.
+Dialogue: 0,0:42:32.64,0:42:36.17,fonte legenda,,0,0,0,,Ei, parece que eles também sobreviveram!
+Dialogue: 0,0:42:38.64,0:42:40.01,fonte legenda,,0,0,0,,Yamcha-sama!
+Dialogue: 0,0:42:42.21,0:42:47.95,fonte legenda,,0,0,0,,Não chore, Upa. Eu usarei as Esferas\Ndo Dragão para ressuscitar o seu pai.
+Dialogue: 0,0:42:47.99,0:42:53.08,fonte legenda,,0,0,0,,Shen Long pode realizar qualquer desejo!\NTudo bem pra você, Bulma?
+Dialogue: 0,0:42:53.13,0:42:58.96,fonte legenda,,0,0,0,,Tudo bem, mas as outras Esferas do Dragão\Nestão numa fenda estranha no meio do lago.
+Dialogue: 0,0:42:59.00,0:43:01.63,fonte legenda,,0,0,0,,Goku, nem mesmo você pode tirá-las de lá.
+Dialogue: 0,0:43:01.67,0:43:05.63,fonte legenda,,0,0,0,,Dizem que um dragão vive no abismo sem fundo.
+Dialogue: 0,0:43:10.08,0:43:12.01,fonte legenda,,0,0,0,,Bem, eu vou tentar.
+Dialogue: 0,0:43:14.95,0:43:16.88,fonte legenda,,0,0,0,,Lá vai!
+Dialogue: 0,0:43:24.49,0:43:28.69,fonte legenda,,0,0,0,,Ei, Goku, eu pensei\Nque aquela era a lembrança do seu avô.
+Dialogue: 0,0:43:28.73,0:43:31.13,fonte legenda,,0,0,0,,Sim, mas foi Upa que a achou.
+Dialogue: 0,0:43:42.98,0:43:45.07,fonte legenda,,0,0,0,,Ei, Shen Long!!
+Dialogue: 0,0:43:46.88,0:43:49.40,fonte legenda,,0,0,0,,Saia daí!
+Dialogue: 0,0:43:50.78,0:43:53.34,fonte legenda,,0,0,0,,Shen Long!
+Dialogue: 0,0:43:54.70,0:44:06.88,legenda para abertura e encerramento,,0,0,0,,Dragon Ball! Dragon Ball!\NDragon Ball! Eu vou buscá-las!
+Dialogue: 0,0:44:22.09,0:44:25.52,legenda para abertura e encerramento,,0,0,0,,Eles dizem que isso pode preencher qualquer sonho
+Dialogue: 0,0:44:27.88,0:44:31.18,legenda para abertura e encerramento,,0,0,0,,Apenas de alguém desejar e querer muito isso
+Dialogue: 0,0:44:33.00,0:44:37.43,legenda para abertura e encerramento,,0,0,0,,Uma história escondida no silêncio
+Dialogue: 0,0:44:38.94,0:44:44.73,legenda para abertura e encerramento,,0,0,0,,Nos sonhos de dias antigos
+Dialogue: 0,0:44:45.32,0:44:51.07,legenda para abertura e encerramento,,0,0,0,,Aqui e agora reviva o milagre
+Dialogue: 0,0:44:51.07,0:44:57.41,legenda para abertura e encerramento,,0,0,0,,realizado pelas sete esferas
+Dialogue: 0,0:44:57.41,0:45:00.50,legenda para abertura e encerramento,,0,0,0,,Sai Dragão só para mim
+Dialogue: 0,0:45:00.50,0:45:03.54,legenda para abertura e encerramento,,0,0,0,,Esse coração está batendo
+Dialogue: 0,0:45:03.54,0:45:09.63,legenda para abertura e encerramento,,0,0,0,,Liberando coragem para muito longe
+Dialogue: 0,0:45:09.63,0:45:12.47,legenda para abertura e encerramento,,0,0,0,,Sai Dragão só para mim
+Dialogue: 0,0:45:12.47,0:45:15.64,legenda para abertura e encerramento,,0,0,0,,Porque eu quero que você realize meu desejo
+Dialogue: 0,0:45:15.64,0:45:21.69,legenda para abertura e encerramento,,0,0,0,,Caçando sonhos à distância
+Dialogue: 0,0:45:21.69,0:45:33.57,legenda para abertura e encerramento,,0,0,0,,Dragon Ball! Dragon Ball!\NDragon Ball! Eu vou buscá-las!
+Dialogue: 0,0:45:35.30,0:45:37.72,legenda para anuncio de episódio e creditos,,0,0,0,,"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
+Dialogue: 0,0:45:41.35,0:45:47.27,musica no video,,0,0,0,,FIM
